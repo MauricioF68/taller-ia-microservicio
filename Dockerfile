@@ -1,5 +1,5 @@
 # Usa una imagen oficial de Python ligera
-FROM python:3.10-slim
+FROM python:3.12-slim
 
 # Crea el directorio de trabajo en la máquina virtual
 WORKDIR /app
